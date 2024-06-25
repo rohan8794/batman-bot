@@ -6,28 +6,21 @@
 class script(object):
     START_TXT = """<b><blockquote>Hᴇʟʟᴏ {}, ᴍʏ ɴᴀᴍᴇ <a href=https://t.me/{}>{}</a></blockquote>
     
-𝖧𝖾𝗅𝗅𝗈, 𝗆𝗈𝗏𝗂𝖾 𝖿𝖺𝗇𝗌! 𝖨'𝗆 𝖺 𝗉𝗈𝗐𝖾𝗋𝖿𝗎𝗅 𝗆𝗈𝗏𝗂𝖾 𝗌𝖾𝖺𝗋𝖼𝗁 𝖻𝗈𝗍 𝗁𝖾𝗋𝖾 𝗍𝗈 𝗆𝖺𝗄𝖾 𝖿𝗂𝗇𝖽𝗂𝗇𝗀 𝖺𝗇𝖽 𝗐𝖺𝗍𝖼𝗁𝗂𝗇𝗀 𝗆𝗈𝗏𝗂𝖾𝗌 𝖾𝖺𝗌𝗒 𝖿𝗈𝗋 𝗒𝗈𝗎.🎬✨ 
-🌟 𝖶𝗁𝖺𝗍 𝖨 𝖢𝖺𝗇 𝖣𝗈: 
- 𝖥𝗂𝗇𝖽 𝖠𝗇𝗒 𝖬𝗈𝗏𝗂𝖾: 𝖲𝖾𝖺𝗋𝖼𝗁 𝖿𝗈𝗋 𝖺𝗇𝗒 𝗆𝗈𝗏𝗂𝖾 𝖻𝗒 𝗂𝗍𝗌 𝖼𝗈𝗋𝗋𝖾𝖼𝗍 𝗇𝖺𝗆𝖾.🔍🎞️
- 𝖶𝖺𝗍𝖼𝗁 𝖺𝗇𝖽 𝖣𝗈𝗐𝗇𝗅𝗈𝖺𝖽: 𝖰𝗎𝗂𝖼𝗄𝗅𝗒 𝗐𝖺𝗍𝖼𝗁 𝗈𝗋 𝖽𝗈𝗐𝗇𝗅𝗈𝖺𝖽 𝗒𝗈𝗎𝗋 𝖿𝖺𝗏𝗈𝗋𝗂𝗍𝖾 𝗆𝗈𝗏𝗂𝖾𝗌.🍿⬇️
-🤝 𝖩𝗈𝗂𝗇 𝖴𝗌:
-𝖠𝖽𝖽 𝖬𝖾 𝗍𝗈 𝖸𝗈𝗎𝗋 𝖦𝗋𝗈𝗎𝗉: 𝖬𝖺𝗄𝖾 𝗒𝗈𝗎𝗋 𝗀𝗋𝗈𝗎𝗉'𝗌 𝗆𝗈𝗏𝗂𝖾 𝗇𝗂𝗀𝗁𝗍𝗌 𝖻𝖾𝗍𝗍𝖾𝗋 𝗐𝗂𝗍𝗁 𝗆𝗒 𝗁𝖾𝗅𝗉. 👫📽️
-𝖩𝗈𝗂𝗇 𝖮𝗎𝗋 𝖢𝗈𝗆𝗆𝗎𝗇𝗂𝗍𝗒: 𝖢𝗈𝗇𝗇𝖾𝖼𝗍 𝗐𝗂𝗍𝗁 𝗈𝗍𝗁𝖾𝗋 𝗆𝗈𝗏𝗂𝖾 𝗅𝗈𝗏𝖾𝗋𝗌 𝖺𝗇𝖽 𝖿𝗂𝗇𝖽 𝗀𝗋𝖾𝖺𝗍 𝗆𝗈𝗏𝗂𝖾𝗌 𝗍𝗈𝗀𝖾𝗍𝗁𝖾𝗋. 🌐🎥
-
-ᴜꜱᴇ ᴛʜɪꜱ @Crunchyrollibot ʙᴏᴛ ꜰᴏʀ ᴀɴɪᴍᴇꜱ 🎥, ᴡᴇʙꜱᴇʀɪᴇꜱ 📺, ᴀɴᴅ ᴋᴏʀᴇᴀɴ ᴅʀᴀᴍᴀꜱ 🎬"</b>"""
+ɪ ᴀᴍ【 ʟᴀᴛᴇꜱᴛ ᴀᴅᴠᴀɴᴄᴇᴅ 】ᴀɴᴅ ᴘᴏᴡᴇʀꜰᴜʟ ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ ʙᴏᴛ+└ᴀᴡᴇꜱᴏᴍᴇ ꜰɪʟᴛᴇʀ┘+├ꜰɪʟᴇ ꜱᴛᴏʀᴇ ʙᴏᴛ┤+☞ᴍᴀɴᴜᴀʟ ꜰɪᴛᴇʀ☜ ᴀɴᴅ ᢵᴄᴜꜱᴛᴏᴍɪᴢᴇᴅ ꜱʜᴏʀᴛɴᴇʀ ꜱᴜᴘᴘᴏʀᴛᢴ ᢾᴀɴᴅ ʙᴇꜱᴛ ᴜɪ ᴘᴇʀꜰᴏʀᴍᴀɴᴄᴇᢿ</b>"""
 
     HELP_TXT = """<b>Hᴇʏ {}
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b><blockquote>⍟───[ MY ᴅᴇᴛᴀɪʟꜱ ]───⍟</blockquote>
     
-‣ ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/{}>{}</a> 
-‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/Rohankarnje'>ʀᴏʜᴀɴ ᴋᴀʀᴀɴᴊᴇ</a> 
+‣ ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/{}>{}</a>
+‣ ᴍʏ ʙᴇsᴛ ғʀɪᴇɴᴅ : <a href='tg://settings'>ᴛʜɪs ᴘᴇʀsᴏɴ</a> 
+‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/kingvj01'>ᴛᴇᴄʜ ᴠᴊ</a> 
 ‣ ʟɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a> 
 ‣ ʟᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 3</a> 
 ‣ ᴅᴀᴛᴀ ʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏ ᴅʙ</a> 
 ‣ ʙᴏᴛ sᴇʀᴠᴇʀ : <a href='https://heroku.com'>ʜᴇʀᴏᴋᴜ</a> 
-‣ ʙᴜɪʟᴅ sᴛᴀᴛᴜs : ᴠ2.7.1 [sᴛᴀʙʟᴇ]></b>"""</b>"""
+‣ ʙᴜɪʟᴅ sᴛᴀᴛᴜs : ᴠ2.7.1 [sᴛᴀʙʟᴇ]></b>"""
 
     SUBSCRIPTION_TXT = """
 <b>ʀᴇғᴇʀʀᴇ ʏᴏᴜʀ ʟɪɴᴋ ᴛᴏ ʏᴏᴜʀ ғʀɪᴇɴᴅs, ғᴀᴍɪʟʏ, ᴄʜᴀɴɴᴇʟ ᴀɴᴅ ɢʀᴏᴜᴘ ᴛᴏ ɢᴇᴛ ғʀᴇᴇ ᴘʀᴇᴍɪᴜᴍ ғᴏʀ {}
@@ -167,51 +160,20 @@ Nᴀᴍᴇ - {}"""
 
     I_CUDNT = """<b>sᴏʀʀʏ ɴᴏ ꜰɪʟᴇs ᴡᴇʀᴇ ꜰᴏᴜɴᴅ ꜰᴏʀ ʏᴏᴜʀ ʀᴇǫᴜᴇꜱᴛ {} 😕
 
-♨️ Reasons For Not Available
-〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
-• Spelling is Wrong
-• Typed Wrong Format
-• Not Released Yet
-• Not Available in Telegram
-• Not in Our Database
+ᴄʜᴇᴄᴋ ʏᴏᴜʀ sᴘᴇʟʟɪɴɢ ɪɴ ɢᴏᴏɢʟᴇ ᴀɴᴅ ᴛʀʏ ᴀɢᴀɪɴ 😃
 
-📮 Please Follow Request Tips!! 
-🔆 Request Tips ➠ <a href='https://t.me/c/2056340901/6'>Click Here </a> 
+ᴍᴏᴠɪᴇ ʀᴇǫᴜᴇꜱᴛ ꜰᴏʀᴍᴀᴛ 👇
 
-🔅 If You Followed All Request Tips & Rules & You Still Didn't Get What You Want, Ask For Admin's Help!
-🔆Contact Admin ➠ <a href='https://t.me/Rohankarnje'>Click Here </a> 
+ᴇxᴀᴍᴘʟᴇ : Uncharted or Uncharted 2022 or Uncharted En
 
-⚠️ MOViES REQUEST TiPS↷
-⊱⋅ ────────────── ⋅⊰
-✨Add Movie Release Year
+ꜱᴇʀɪᴇꜱ ʀᴇǫᴜᴇꜱᴛ ꜰᴏʀᴍᴀᴛ 👇
 
- 彡 Examples↷
-› IRON MAN 2008 ✅
-› IRON MAN ❌
+ᴇxᴀᴍᴘʟᴇ : Loki S01 or Loki S01E04 or Lucifer S03E24
 
-⚠️ SERiES REQUEST TiPS↷
+🚯 ᴅᴏɴᴛ ᴜꜱᴇ ➠ ':(!,./)</b>"""
 
-✨ Add Series Name, Don't Type Year! 
-
-彡 Examples↷
-› Stranger Things ✅
-› Stranger Things 2017 ❌
-
-✨ For A Specific Season of Any Series, Type Like S01, S02 etc.,
-( ɪᴛ's ᴢᴇʀᴏ ɴᴏᴛ ᴀʟᴘʜᴀʙᴇᴛ O)
-彡 Examples↷
-› Stranger Things S01 ✅
-› Stranger Things Season 1 ❌
-› Stranger Things S1 ❌
-
-💱 Don't Type Any Symbols↷
-. , ' " : - – + × ( ) ? ! @ # | = / •</b>"""
-
-    I_CUD_NT = ]"""<b>Hᴇʟʟᴏ {} 😍, Aɴᴅ Wᴇʟᴄᴏᴍᴇ Tᴏ {} Gʀᴏᴜᴘ ❤️
-    Here All Movies Series & Anime Collection Is Available In Multi Language...
-
-📮 Please Follow Request Tips!! 
-⚠️ Request Tips ➠ <a href='https://t.me/c/2056340901/6'>Click Here </a> </b>"""
+    I_CUD_NT = """ɪ ᴄᴏᴜʟᴅɴ'ᴛ ꜰɪɴᴅ ᴀɴʏ ᴍᴏᴠɪᴇ ʀᴇʟᴀᴛᴇᴅ ᴛᴏ {}.
+ᴘʟᴇᴀꜱᴇ ᴄʜᴇᴄᴋ ᴛʜᴇ ꜱᴘᴇʟʟɪɴɢ ᴏɴ ɢᴏᴏɢʟᴇ ᴏʀ ɪᴍᴅʙ..."""
 
     MVE_NT_FND = """ᴍᴏᴠɪᴇ ɴᴏᴛ ꜰᴏᴜɴᴅ ɪɴ ᴅᴀᴛᴀʙᴀꜱᴇ..."""
 
